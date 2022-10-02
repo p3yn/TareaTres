@@ -1,0 +1,14 @@
+{
+  "name": "tatea-tres",
+  "version": "0.0.1",
+  "description": "Tarea Tres, herencia y requests en Javascript, con node y express",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Ivan Medrano, CESUN IDS 7mo",
+  "license": "ISC",
+  "dependencies": {
+    "popups": "^1.1.3"
+  }
+}
